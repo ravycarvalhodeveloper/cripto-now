@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    max-width: 1080px;
+}
+
+.logoh1 {
+    font-weight: 700;
+    color: #ff3c00;
+}
+
+.logoh1 span {
+    color: #292929;
+    font-weight: 900;
+}
