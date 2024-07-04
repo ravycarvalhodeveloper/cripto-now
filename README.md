@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nosso projeto React oferece uma plataforma simples e eficiente para monitorar criptomoedas em tempo real. Os usuários podem facilmente verificar se uma criptomoeda está em alta ou baixa, além de acessar detalhes essenciais como preço atual, variação percentual, capitalização de mercado e volume de negociação diário. Com uma interface intuitiva e atualizações em tempo real, nosso objetivo é proporcionar uma experiência direta e informativa para entusiastas e investidores de criptomoedas.
 
 
-- [Acesse o projeto finalizado, online](https://start-movie.vercel.app/)
+- [Acesse o projeto finalizado, online](https://cripto-now.vercel.app/)
 
 ## 🔖 Layout
 
